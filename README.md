@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helina Freesgi 👋
 
 <!--
 **HelinaFreesgi/HelinaFreesgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Building backend applications using Python &
+Building data pipelines using Glue
