@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Building backend applications using Python &
-/n Building data pipelines using Glue
+Building backend applications using Python & <br />
+Building data pipelines using Glue
