@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Building backend applications using Python &
-Building data pipelines using Glue
+/n Building data pipelines using Glue
